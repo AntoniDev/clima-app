@@ -1,0 +1,24 @@
+{
+  "name": "05-clima-app",
+  "version": "0.0.1",
+  "description": "Conectarnos a APIS Externas para mostrar el clima de cierta región.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniDev/clima-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntoniDev/clima-app/issues"
+  },
+  "homepage": "https://github.com/AntoniDev/clima-app#readme"
+}
